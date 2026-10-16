@@ -74,3 +74,14 @@ Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le pers
 
 
 
+
+
+
+
+
+
+
+
+
+
+
