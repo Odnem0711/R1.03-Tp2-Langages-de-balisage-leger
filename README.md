@@ -9,8 +9,7 @@ Smash Bros et c'est uniquement le 14 octobre 2020, qu'il est apparu la première
 Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le personnage peut miner, poser des blocks, taper, sauter... Mais c'est uniquement lorsqu'on joue contre lui qu'on se rend compte qu'il est l'un des persos les plus forts du jeu.
 
 |            Points forts          | Points faibles |
-| -------------------------------- | -------------- |
-|            :----:                |     :----:     |
+| :------------------------------: | :------------: |
 |Specials tous kill confirm        |  Un poil lent  |
 |Tilt tous Combo initiator         |                |
 |Attaques améliorable              |                |
