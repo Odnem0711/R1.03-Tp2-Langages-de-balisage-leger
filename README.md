@@ -1,8 +1,7 @@
 # La Tier-list Super Smash Bros. Ultimate
 ![Tier list Smash 2026](tierList.png)
 
-![Steve](Steve.png)
-## Steve
+## ![Steve](Steve.png) Steve
 #### D'où vient-il ? :
 Il vient du célèbre Jeu Vidéo Minecraft, développé pendant les années 2000 et sorti le 18 Novembre 2011. Il était l'un des personnages les plus attendus dans Super
 Smash Bros et c'est uniquement le 14 octobre 2020, qu'il est apparu la première et surement la dernière fois dans un jeu Super Smash Bros. 
@@ -20,33 +19,27 @@ Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le pers
 |Aerials trop fortes               |                |
 |Trop fort                         |                |
 
-![Bayonetta](Bayonetta.png)  
-# Bayonetta
+## ![Bayonetta](Bayonetta.png) Bayonetta
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
-![Zss](Zss.png)  
-# Zero Suit Samus
+## ![Zss](Zss.png) Zero Suit Samus
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
-![DK](DK.png)  
-# Donkey Kong
+## ![DK](DK.png) Donkey Kong
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
-![Isabelle](Isabelle.png)  
-# Isabelle
+## ![Isabelle](Isabelle.png) Isabelle
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
-![Mewtwo](Mewtwo.png)  
-# Mewtwo
+## ![Mewtwo](Mewtwo.png) Mewtwo
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
-![Ganondorf](Ganondorf.png)
-# Ganondorf
+## ![Ganondorf](Ganondorf.png) Ganondorf
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
