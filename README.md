@@ -16,7 +16,7 @@
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
-<img src="DK.png" width="50"> :
+<img src="DK.png" width="50"> 
   
 | Points forts | Points faibles |
 | ------------ | -------------- |
