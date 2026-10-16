@@ -6,12 +6,22 @@
 | ------------ | -------------- |
 | Tout         | Aucun          |
 
-<img src="Ganondorf.png" width="50"> :
+<img src="Bayonetta.png" width="50"> :
   
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
-<img src="Bayonetta.png" width="50"> :
+<img src="Zss.png" width="50"> :
+  
+| Points forts | Points faibles |
+| ------------ | -------------- |
+
+<img src="DK.png" width="50"> :
+  
+| Points forts | Points faibles |
+| ------------ | -------------- |
+
+<img src="Mewtwo.png" width="50"> :
   
 | Points forts | Points faibles |
 | ------------ | -------------- |
