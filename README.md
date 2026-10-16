@@ -6,7 +6,6 @@ Le petit dernier se démarque des autres car il est sortie sur la Nintendo Switc
 Il est aussi populaire grâce au fait qu'il n'a pas uniquement ajouté des personnages signés Nintendo, mais aussi des personnages concurrents(Comme Sonic, par exemple, sorti sur Super Smash Bros Brawl, le 3ème jeu de la franchise).  
 ## Méchaniques expliquées :
 Avant de commencer, nous allons voir quelques méchaniques à expliquer pour comprendre le wiki :  
-Tout d'abord les attaques :  
 |                   Attaques                 |                Nom technique utilisé             |
 | :----------------------------------------: | :----------------------------------------------: |
 |Vie                                         |**Stock**                                         |
