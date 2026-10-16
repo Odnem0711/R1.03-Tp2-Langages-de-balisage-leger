@@ -40,10 +40,19 @@ Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le pers
 |Aerials trop fortes               |                |
 |Trop fort                         |                |
 
+### Bayonetta
 <img src="Bayonetta.png" width="50"> 
   
-| Points forts | Points faibles |
-| ------------ | -------------- |
+Ensuite voyons Bayonetta : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Car elle a moins d'atouts majeurs pour kill confirm.
+
+
+|      Points forts      |       Points faibles      |
+| :--------------------: | :------------------------:|
+|
+|
+|
+|
+|
 
 <img src="Zss.png" width="50"> 
   
