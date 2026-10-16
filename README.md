@@ -1,4 +1,4 @@
-# R1.03 Tp2 Langages de balisage leger
+# Regarde bro
 - Lauris Amendola
 - Lohan Nanthavongdouangsy
 - Eloise Goulais
