@@ -18,3 +18,35 @@ Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le pers
 |Smash attaques toutes kill confirm|                |
 |Aerials trop fortes               |                |
 |Trop fort                         |                |
+
+<img src="Bayonetta.png" width="50"> 
+  
+| Points forts | Points faibles |
+| ------------ | -------------- |
+
+<img src="Zss.png" width="50"> 
+  
+| Points forts | Points faibles |
+| ------------ | -------------- |
+
+<img src="DK.png" width="50"> 
+  
+| Points forts | Points faibles |
+| ------------ | -------------- |
+
+<img src="Isabelle.png" width="50"> 
+  
+| Points forts | Points faibles |
+| ------------ | -------------- |
+
+<img src="Mewtwo.png" width="50"> 
+  
+| Points forts | Points faibles |
+| ------------ | -------------- |
+
+<img src="Ganondorf.png" width="50"> 
+  
+| Points forts | Points faibles |
+| ------------ | -------------- |
+>>>>>>> 314e06364b44a6c3d8cb02ce264d099a6e816995
+
