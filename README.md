@@ -72,3 +72,4 @@ Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le pers
 >>>>>>> 314e06364b44a6c3d8cb02ce264d099a6e816995
 
 
+
