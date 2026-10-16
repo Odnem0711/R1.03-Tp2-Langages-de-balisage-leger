@@ -6,7 +6,6 @@ Il est aussi populaire grâce au fait qu'il n'a pas uniquement ajouté des perso
 
 ## Méchaniques expliquées :
 Avant de commencer, nous allons voir quelques méchaniques à expliquer pour comprendre le wiki :  
-Tout d'abord les attaques :  
 |                   Attaques                 |                Nom technique utilisé             |
 | :----------------------------------------: | :----------------------------------------------: |
 |Vie                                         |Stock                                             |
