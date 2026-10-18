@@ -44,9 +44,14 @@ Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certain
 
 ### Bayonetta
 <img src="Bayonetta.png" width="50"> 
-### D'où vient-elle ? / Gameplay :  
 
+<<<<<<< HEAD
 Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta), un personnage assez excentrique de l'univers de [Hideki Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya), qui fait son apparition dans le [4ème Opus de la série Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_/_for_Wii_U) : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Alors qu'elle a le même potentiel avec des atouts même plus puissant que Steve ? Elle est rapide, elle possède des attaques plus rapides pour démarrer un combo, des méchaniques plus fortes notamment son Down B, qui a la possibilité de ralentir l'adversaire qu'il l'attaque, des Specials qui permettent de démarrer un combo également.. On pourrait croire que c'est injuste de la mettre en-dessous d'un personnage plus lent qu'elle. Mais le problème réside du fait qu'elle a plus de point faible que notre ami Steve.  
+=======
+### D'où vient-elle ? / Gameplay :    
+
+Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta) , un personnage assez excentrique de l'univers de [Hideki Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya), qui fait son apparition dans le 4ème Opus de la série Super Smash Bros. : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Alors qu'elle a le même potentiel avec des atouts même plus puissant que Steve ? Elle est rapide, elle possède des attaques plus rapides pour démarrer un combo, des méchaniques plus fortes notamment son Down B, qui a la possibilité de ralentir l'adversaire qu'il l'attaque, des Specials qui permettent de démarrer un combo également.. On pourrait croire que c'est injuste de la mettre en-dessous d'un personnage plus lent qu'elle. Mais le problème réside du fait qu'elle a plus de point faible que notre ami Steve.  
+>>>>>>> 72c1feb15f908528075ee1d5146eb9c339a0cb2a
 
 |         Points forts         |        Points faibles      |
 | :--------------------------: | :-------------------------:|
