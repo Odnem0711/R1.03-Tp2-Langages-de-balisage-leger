@@ -16,7 +16,8 @@ Avant de commencer, nous allons voir quelques méchaniques à expliquer pour com
 |Attaques Spéciales (direction + B)          |**Specials** (Neutral / Up / Down B)              |
 |Moyens de revenir sur le terrain            |**Recovery**                                      |
 |Empêcher de l'adversaire de revenir         |**Edgeguarding**                                  |
-
+|Attraper quelqu'un                          |**Grab**(Forward/Back/Up/Down Throw)              |
+|Bouclier                                    |**Shield**                                        |
 
 ![Tier list Smash 2026](tierList.png)
 ### Steve:
@@ -47,7 +48,7 @@ Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certain
 
 ### D'où vient-elle ? / Gameplay :    
 
-Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta) , un personnage assez excentrique de l'univers de [Hideki Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya), qui fait son apparition dans le 4ème Opus de la série Super Smash Bros. : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Alors qu'elle a le même potentiel avec des atouts même plus puissant que Steve ? Elle est rapide, elle possède des attaques plus rapides pour démarrer un combo, des méchaniques plus fortes notamment son Down B, qui a la possibilité de ralentir l'adversaire qu'il l'attaque, des Specials qui permettent de démarrer un combo également.. On pourrait croire que c'est injuste de la mettre en-dessous d'un personnage plus lent qu'elle. Mais le problème réside du fait qu'elle a plus de point faible que notre ami Steve.  
+Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta) , un personnage assez excentrique de l'univers de [Hideki Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya), qui fait son apparition dans le 4ème Opus de la série Super Smash Bros. : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Alors qu'elle a le même potentiel avec des atouts même plus puissant que Steve ? Elle est rapide, elle possède des attaques plus rapides pour démarrer un combo, des mécaniques plus fortes notamment son Down B, qui a la possibilité de ralentir l'adversaire qu'il l'attaque, des Specials qui permettent de démarrer un combo également.. On pourrait croire que c'est injuste de la mettre en-dessous d'un personnage plus lent qu'elle. Mais le problème réside du fait qu'elle a plus de point faible que notre ami Steve.  
 
 |         Points forts         |        Points faibles      |
 | :--------------------------: | :-------------------------:|
@@ -83,11 +84,22 @@ C'est à ce moment précis qu'on se rend compte de la différence entre chaques 
 
 ### Donkey Kong  
 <img src="DK.png" width="50"> 
+### D'ou il vient ? / Gameplay :  
 
-Notre vieil ami Donkey Kong, apparu pour la première fois dans le jeu du même nom, est un personnage iconique de la compagnie Nintendo. Il est apparu dans le tout premier Opus [Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros.) et il est l'une des plus grandes figures de ce jeu.  
+Notre vieil ami Donkey Kong, apparu pour la première fois dans son [jeu](https://fr.wikipedia.org/wiki/Donkey_Kong_(jeu_vid%C3%A9o,_1981)) du même nom, est un personnage iconique de la compagnie Nintendo. Il est apparu dans le tout premier Opus [Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros.) et il est l'une des plus grandes figures de ce jeu.  
+Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages visibles rien qu'en touchant le personnage pour la premère fois. Il est assez lent, il est énorme, il est lourd, il a une mauvaise recovery, il a du lag à chaque smashs attacks... Or, il est placé au même niveau que Zss. Alors pourquoi ? C'est grâce à ses mécaniques très puissantes. Son neutral B permet de charger un coup de poing dévastateur tuant assez rapidement (60%), son side B permet de casser le bouclier ennemi rapidement, mais aussi "enterrer" ses ennemis et les bloquer pour tuer facilement. Et le plus important dans son kit, est son plus grand atout. Son forward grab, au lieu d'éjecter l'ennemi, Donkey Kong porte son adversaire et peut se déplacer avec lui sur la carte, avant de le relâcher après quelques secondes. Cette capacité est très puissante car elle permet, en profitant de l'inatention de son adversaire, peut tuer à 0% en l'éjectant hors du stage.
 
-| Points forts | Points faibles |
-| ------------ | -------------- |
+|      Points forts      |     Points faibles     |
+| :--------------------: | :--------------------: |
+|Grab                    |Recovery Mauvaise       |
+|Portée importante       |Déplacement lent        |
+|Beaucoup de Kill confirm|Grosse Hitbox           |
+|Coups puissants         |Lags importants         |
+|Specials puissants      |Facile à punir          |
+|Up B au sol puissant    |Sensible aux projectiles|
+|Grande survivabilité    |                        |
+
+Donkey Kong a énormément de points faibles comparé à Zss et Steve, ce qui le rend très vulnérables par rapport aux autres. Or, Donkey Kong tape extrêmement fort, et peut facilement dominer le combat grâce a son grab puissant. Lui n'est pas victime d'un mauvais placement à cause de ses résultats en tournoi, mais par son gros désaventage de poids et de taille, qui le rend facile à taper . Il est aussi avantagé par sa portée importante et ses coups puissants permettant de compenser ses points faibles, et c'est bien pour cela qu'il mérite son rang.
 
 <img src="Isabelle.png" width="50"> 
   
