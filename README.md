@@ -33,16 +33,16 @@ Smash Bros et c'est uniquement le 14 octobre 2020, qu'il est apparu la première
 ### Gameplay :
 Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le personnage peut miner, poser des blocks, taper, sauter... Mais c'est uniquement lorsqu'on joue contre lui qu'on se rend compte qu'il est l'un des persos les plus forts du jeu.  
 
-|            Points forts          | Points faibles |
-| :------------------------------: | :------------: |
-|Specials tous kill confirm        |  Un poil lent  |
-|Tilt permettant facilement combo  |                |
-|Attaques améliorable              |                |
-|Bonne recovery (Up/side B)        |                |
-|Très bon edgeguard                |                |
-|Smash attaques toutes kill confirm|                |
-|Aerials trop fortes               |                |
-|Trop fort                         |                |
+|         **Points forts**         | **Points faibles** |
+| :------------------------------: | :----------------: |
+|Specials tous kill confirm        |Un poil lent        |
+|Tilt permettant facilement combo  |                    |
+|Attaques améliorable              |                    |
+|Bonne recovery (Up/side B)        |                    |
+|Très bon edgeguard                |                    |
+|Smash attaques toutes kill confirm|                    |
+|Aerials trop fortes               |                    |
+|Trop fort                         |                    |
 
 Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certains tournois à sa sortie, car même si sa force réside dans ses attaques puissantes et démesurées, son autre force est aussi les bugs de Gameplay, qui l'ont rendu irritable à jouer contre et l'ont rendu aussi puissant. A l'heure qu'il est, ce personnage reste, et restera, l'un des personnages les plus forts de tous les Super Smash Bros. confondus.  
 
@@ -55,7 +55,7 @@ Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certain
 
 Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta) , un personnage assez excentrique de l'univers de [Hideki Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya), qui fait son apparition dans le 4ème Opus de la série Super Smash Bros. : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Alors qu'elle a le même potentiel avec des atouts même plus puissant que Steve ? Elle est rapide, elle possède des attaques plus rapides pour démarrer un combo, des mécaniques plus fortes notamment son Down B, qui a la possibilité de ralentir l'adversaire qu'il l'attaque, des Specials qui permettent de démarrer un combo également.. On pourrait croire que c'est injuste de la mettre en-dessous d'un personnage plus lent qu'elle. Mais le problème réside du fait qu'elle a plus de point faible que notre ami Steve.  
 
-|         Points forts         |        Points faibles      |
+|       **Points forts**       |      **Points faibles**    |
 | :--------------------------: | :-------------------------:|
 |Rapide                        |0 Kill Confirm              |
 |Attaques rapides              |Smashs attaques lentes (Lag)|
@@ -66,7 +66,7 @@ Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta) , un personn
 |Tilt initiateur de combo      |                            |
 |Aerials combo extender        |                            |
 
-Comparée à Steve, Bayonetta n'a que quelques points faibles en plus ce qui l'a rend vulnérable à quelques attaques. Hormis son gros manque de Moves Kill Confirm , ce personnage est assez puissant pour la jouer à un niveau professionnel, en étant à la fois fun à jouer, et impressionant à regarder (Nacer)  
+Comparée à **Steve**, **Bayonetta** n'a que quelques points faibles en plus ce qui l'a rend vulnérable à quelques attaques. Hormis son gros manque de Moves Kill Confirm , ce personnage est assez puissant pour la jouer à un niveau professionnel, en étant à la fois fun à jouer, et impressionant à regarder (Nacer)  
 
 ## B TIER
 
@@ -75,10 +75,10 @@ Comparée à Steve, Bayonetta n'a que quelques points faibles en plus ce qui l'a
 
 ### D'où elle vient ? / Gameplay :
 
-Samus Sans Armure ou Zero Suit Samus est le personnage principal de la série [Metroid](https://fr.wikipedia.org/wiki/Metroid) et apparue dans le 3ème Opus de la Série [(Brawl)](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Brawl). Ce personnage est assez spécial car il paraît à vue d'oeil très puissant. Ce qui paraît aussi étonnant, c'est à la fois le fait qu'elle est moins bien classée que nos deux personnages vus précedemments, et que sa version en Armure est aussi mieux classée que celle sans Armure.  
-Zss (Zero Suit Samus) est un personnage très rapide, et très puissant. Elle possède un combo dévastateur, grâce à son Up Air, avec un finish au Up B pouvant tuer très tôt. Elle possède aussi beaucoup de Lag sur la fin de ses coups, la rendant très vulnérable. Elle est aussi assez prévisible, surtout hors du stage, pour revenir, mais aussi imprévisible par sa rapidité.  
+**Samus Sans Armure** ou **Zero Suit Samus** est le personnage principal de la série [Metroid](https://fr.wikipedia.org/wiki/Metroid) et apparue dans le 3ème Opus de la Série [(Brawl)](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Brawl). Ce personnage est assez spécial car il paraît à vue d'oeil très puissant. Ce qui paraît aussi étonnant, c'est à la fois le fait qu'elle est moins bien classée que nos deux personnages vus précedemments, et que sa version en Armure est aussi mieux classée que celle sans Armure.  
+**Zss** (Zero Suit Samus) est un personnage très rapide, et très puissant. Elle possède un combo dévastateur, grâce à son Up Air, avec un finish au Up B pouvant tuer très tôt. Elle possède aussi beaucoup de Lag sur la fin de ses coups, la rendant très vulnérable. Elle est aussi assez prévisible, surtout hors du stage, pour revenir, mais aussi imprévisible par sa rapidité.  
 
-|      Points forts     |         Points faibles       |
+|    **Points forts**   |      **Points faibles**      |
 | :-------------------: | :--------------------------: |
 |Rapide                 |Beaucoup de Lag               |
 |Attaques rapide        |1 Kill confirm régulier (Up B)|
@@ -87,17 +87,17 @@ Zss (Zero Suit Samus) est un personnage très rapide, et très puissant. Elle po
 |Redoutable en Edgeguard|                              |
 |Excellente Recovery    |                              |
 
-C'est à ce moment précis qu'on se rend compte de la différence entre chaques personnages. En soit, la puissance de chaque perso n'est pas comparable en premier lieu, certains paraîssent fort, tandis que d'autres non, et c'est en fait le plus faible à vue d'oeil qui est le plus fort (A part Steve qui est une exception). Zss est un personnage très puissant qui, en 2023, était pratiquement en haut du panier, pour se retrouver en 2026, au milieu du classement. Pourquoi ? C'est en fait à cause de l'irrégularité de certains joueurs professionels en tournoi, qui montrent que Zss n'est pas un personnage aussi fort qu'il ne paraît. 
+C'est à ce moment précis qu'on se rend compte de la différence entre chaques personnages. En soit, la puissance de chaque perso n'est pas comparable en premier lieu, certains paraîssent fort, tandis que d'autres non, et c'est en fait le plus faible à vue d'oeil qui est le plus fort (A part **Steve** qui est une exception). Zss est un personnage très puissant qui, en 2023, était pratiquement en haut du panier, pour se retrouver en 2026, au milieu du classement. Pourquoi ? C'est en fait à cause de l'irrégularité de certains joueurs professionels en tournoi, qui montrent que **Zss** n'est pas un personnage aussi fort qu'il ne paraît. 
 
 ### Donkey Kong  
 <img src="DK.png" width="50"> 
 
-### D'ou il vient ? / Gameplay :
+### D'où il vient ? / Gameplay :
 
-Notre vieil ami Donkey Kong, apparu pour la première fois dans son [jeu](https://fr.wikipedia.org/wiki/Donkey_Kong_(jeu_vid%C3%A9o,_1981)) du même nom, est un personnage iconique de la compagnie Nintendo. Il est apparu dans le tout premier Opus [Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros.) et il est l'une des plus grandes figures de ce jeu.  
-Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages visibles rien qu'en touchant le personnage pour la premère fois. Il est assez lent, il est énorme, il est lourd, il a une mauvaise recovery, il a du lag à chaque smashs attacks... Or, il est placé au même niveau que Zss. Alors pourquoi ? C'est grâce à ses mécaniques très puissantes. Son neutral B permet de charger un coup de poing dévastateur tuant assez rapidement (60%), son side B permet de casser le bouclier ennemi rapidement, mais aussi "enterrer" ses ennemis et les bloquer pour tuer facilement. Et le plus important dans son kit, est son plus grand atout. Son forward grab, au lieu d'éjecter l'ennemi, Donkey Kong porte son adversaire et peut se déplacer avec lui sur la carte, avant de le relâcher après quelques secondes. Cette capacité est très puissante car elle permet, en profitant de l'inatention de son adversaire, peut tuer à 0% en l'éjectant hors du stage.
+Notre vieil ami **Donkey Kong**, apparu pour la première fois dans son [jeu](https://fr.wikipedia.org/wiki/Donkey_Kong_(jeu_vid%C3%A9o,_1981)) du même nom, est un personnage iconique de la compagnie Nintendo. Il est apparu dans le tout premier Opus [Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros.) et il est l'une des plus grandes figures de ce jeu.  
+Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages visibles rien qu'en touchant le personnage pour la premère fois. Il est assez lent, il est énorme, il est lourd, il a une mauvaise recovery, il a du lag à chaque smashs attacks... Or, il est placé au même niveau que Zss. Alors pourquoi ? C'est grâce à ses mécaniques très puissantes. Son neutral B permet de charger un coup de poing dévastateur tuant assez rapidement (60%), son side B permet de casser le bouclier ennemi rapidement, mais aussi "***enterrer***" ses ennemis et les bloquer pour tuer facilement. Et le plus important dans son kit, est son plus grand atout. Son forward grab, au lieu d'éjecter l'ennemi, Donkey Kong porte son adversaire et peut se déplacer avec lui sur la carte, avant de le relâcher après quelques secondes. Cette capacité est très puissante car elle permet, en profitant de l'inatention de son adversaire, peut tuer à 0% en l'éjectant hors du stage.
 
-|      Points forts      |     Points faibles     |
+|    **Points forts**    |   **Points faibles**   |
 | :--------------------: | :--------------------: |
 |Grab                    |Recovery Mauvaise       |
 |Portée importante       |Déplacement lent        |
@@ -107,26 +107,37 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 |Up B au sol puissant    |Sensible aux projectiles|
 |Grande survivabilité    |                        |
 
-Donkey Kong a énormément de points faibles comparé à Zss et Steve, ce qui le rend très vulnérables par rapport aux autres. Or, Donkey Kong tape extrêmement fort, et peut facilement dominer le combat grâce a son grab puissant. Lui n'est pas victime d'un mauvais placement à cause de ses résultats en tournoi, mais par son gros désaventage de poids et de taille, qui le rend facile à taper . Il est aussi avantagé par sa portée importante et ses coups puissants permettant de compenser ses points faibles, et c'est bien pour cela qu'il mérite son rang.
+**Donkey Kong** a énormément de points faibles comparé à **Zss** et **Steve**, ce qui le rend très vulnérables par rapport aux autres. Or, **Donkey Kong** tape extrêmement fort, et peut facilement dominer le combat grâce a son grab puissant. Lui n'est pas victime d'un mauvais placement à cause de ses résultats en tournoi, mais par son gros désaventage de poids et de taille, qui le rend facile à taper . Il est aussi avantagé par sa portée importante et ses coups puissants permettant de compenser ses points faibles, et c'est bien pour cela qu'il mérite son rang.
 
 ## C TIER
 
 ### Marie / Isabelle
 <img src="Isabelle.png" width="50"> 
 
+### D'où elle vient ? / Gameplay :
 
-| Points forts | Points faibles |
-| ------------ | -------------- |
+**Marie** est un personnage peu remarquable de la série Smash Bros. Sortie dans le dernier opus, et sort tout droit d'un jeu tranquille du nom de [Animal Crossing New Leaf](https://fr.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) .Déjà de un, qu'est ce qu'elle fait dans un jeu comme Smash Bros ? De deux, Ce personnage est tout bonnement basique, avec son forward air jetant un projectile, des tilts assez faibles, et des smashs attaques pouvant tuer à pourcentages très haut, des mécaniques simples comme son side B qui agit comme un deuxième grab, et un Down B très situationnel, qui plante un missile (Gyroïde) dans le sol.Ce personnage est tranquille, à l'image de son jeu d'origine. Elle n'est pas très menaçante, elle est même facile à éjecter, elle n'a pas beaucoup d'avantages, de point forts (à part son Neutral B qui peut stocker un projectile lancé vers toi)..
+
+| **Points forts** | **Points faibles** |
+| :--------------: | :----------------: |
+|Bonne Recovery    |Lente               |
+|Side B à distance |Lags présents       |
+|Neutral B         |Légère              |
+|Bons combos       |Coups Faibles       |
+|                  |0 Kill Confirm      |
+|                  |                    |
+
+**Marie** est effectivement un personnage assez faible, n'ayant que ses combos et ses specials qui peuvent l'aider. Si elle n'avait qu'une seule chose à avoir en plus, ce serait des coups plus puissants, sans ça, elle n'est effectivement pas impressionante et mérite son rang. (C'est l'un des personnages préférés de Lohan donc il faut pas trop la critiquer..). Le personnage est tellement faible comparé à Steve qu'ils ne sont même pas comparables entre eux, c'est vraiment n'importe quoi.
 
 <img src="Mewtwo.png" width="50"> 
   
-| Points forts | Points faibles |
-| ------------ | -------------- |
+| **Points forts** | **Points faibles** |
+| :--------------: | :----------------: |
 
 <img src="Ganondorf.png" width="50"> 
   
-| Points forts | Points faibles |
-| ------------ | -------------- |
+| **Points forts** | **Points faibles** |
+| :--------------: | :----------------: |
 
 
 
