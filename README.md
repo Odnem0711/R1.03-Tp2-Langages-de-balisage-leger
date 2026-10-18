@@ -42,7 +42,6 @@ Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le pers
 |Smash attaques toutes kill confirm|                    |
 |Aerials trop fortes               |                    |
 |Trop fort                         |                    |
->>>>>>> lohan
 
 Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certains tournois à sa sortie, car même si sa force réside dans ses attaques puissantes et démesurées, son autre force est aussi les bugs de Gameplay, qui l'ont rendu irritable à jouer contre et l'ont rendu aussi puissant. A l'heure qu'il est, ce personnage reste, et restera, l'un des personnages les plus forts de tous les Super Smash Bros. confondus.  
 
@@ -125,26 +124,24 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 
 **Marie** est effectivement un personnage assez faible, n'ayant que ses combos et ses specials qui peuvent l'aider. Si elle n'avait qu'une seule chose à avoir en plus, ce serait des coups plus puissants, sans ça, elle n'est effectivement pas impressionante et mérite son rang. (C'est l'un des personnages préférés de Lohan donc il faut pas trop la critiquer..). Le personnage est tellement faible comparé à Steve qu'ils ne sont même pas comparables entre eux, c'est vraiment n'importe quoi.
 
+## D TIER
+### Mewtwo
 ![Mewtwo](images/Mewtwo.png)
-| **Points forts** | **Points faibles** |
-| :--------------: | :----------------: |
+### D'où elle vient ? / Gameplay :
+
+**Mewtwo** est un personnage de la série Pokemon, apparu pour la première fois en 1996 dans le jeu Pokemon Rouge et Bleu en tant que boss ultime.  
+
+| **Points forts**            | **Points faibles**  |
+| :--------------:            | :----------------:  |
+|Neutral B (Outil de pression)|Ultra léger          |
+|Excellente mobilité aérienne |Immense Hitbox       |
+|Early Kill Power             |Facile a combo       |
+|Excellente recovery          |Désaventage difficile|
+|Reflecteur de Projectiles    |                     |
+
+
 
 ![Ganondorf](images/Ganondorf.png)
   
 | **Points forts** | **Points faibles** |
 | :--------------: | :----------------: |
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> lohan
-
