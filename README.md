@@ -3,7 +3,7 @@
 [Super Smash Bros Ultimate](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) est un jeu développé par nintendo en 2017 et sorti le 7 décembre 2018, un jour que la plupart des fans de nintendos n'oublieront jamais.  
 Si ce jeu est aussi populaire, c'est parce que Smash Bros est l'une des franchises de Nintendo les plus connues, car elle regroupe toutes les autres franchises signées Nintendo.  
 Le petit dernier se démarque des autres car il est sortie sur la Nintendo Switch, une console plus que connue.  
-Il est aussi populaire grâce au fait qu'il n'a pas uniquement ajouté des personnages signés Nintendo, mais aussi des personnages concurrents(Comme Sonic, par exemple, sorti sur Super Smash Bros Brawl, le 3ème jeu de la franchise).  
+Il est aussi populaire grâce au fait qu'il n'a pas uniquement ajouté des personnages signés Nintendo, mais aussi des personnages concurrents(Comme Sonic, par exemple, sorti sur Super Smash Bros Brawl, le 3ème jeu de la franchise). Dans ce Repo Git, nous allons analyser plusieurs personnages de différents tiers en les comparant pour bien voir la différence de puissance entre chacuns. La [tier-list](https://medium.com/@ultrankssb/the-fourth-ultrank-tier-list-2026-9c5f6964f7e3) est une tier-list datant de 2026, regroupant tout les personnages du jeu, sans forcément expliquer pourquoi ils sont dans ce tier, et c'est effectivement ce que nous allons voir.    
 ## Méchaniques expliquées :
 Avant de commencer, nous allons voir quelques méchaniques à expliquer pour comprendre le wiki :  
 |                  Principes                 |                Nom technique utilisé             |
@@ -20,6 +20,9 @@ Avant de commencer, nous allons voir quelques méchaniques à expliquer pour com
 |Bouclier                                    |**Shield**                                        |
 
 ![Tier list Smash 2026](tierList.png)
+
+## S TIER
+
 ### Steve:
 <img src="Steve.png" width="50">
   
@@ -43,6 +46,8 @@ Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le pers
 
 Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certains tournois à sa sortie, car même si sa force réside dans ses attaques puissantes et démesurées, son autre force est aussi les bugs de Gameplay, qui l'ont rendu irritable à jouer contre et l'ont rendu aussi puissant. A l'heure qu'il est, ce personnage reste, et restera, l'un des personnages les plus forts de tous les Super Smash Bros. confondus.  
 
+## A TIER
+
 ### Bayonetta
 <img src="Bayonetta.png" width="50"> 
 
@@ -62,6 +67,8 @@ Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta) , un personn
 |Aerials combo extender        |                            |
 
 Comparée à Steve, Bayonetta n'a que quelques points faibles en plus ce qui l'a rend vulnérable à quelques attaques. Hormis son gros manque de Moves Kill Confirm , ce personnage est assez puissant pour la jouer à un niveau professionnel, en étant à la fois fun à jouer, et impressionant à regarder (Nacer)  
+
+## B TIER
 
 ### Samus Sans Armure (Zero Suit Samus)
 <img src="Zss.png" width="50"> 
@@ -102,8 +109,12 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 
 Donkey Kong a énormément de points faibles comparé à Zss et Steve, ce qui le rend très vulnérables par rapport aux autres. Or, Donkey Kong tape extrêmement fort, et peut facilement dominer le combat grâce a son grab puissant. Lui n'est pas victime d'un mauvais placement à cause de ses résultats en tournoi, mais par son gros désaventage de poids et de taille, qui le rend facile à taper . Il est aussi avantagé par sa portée importante et ses coups puissants permettant de compenser ses points faibles, et c'est bien pour cela qu'il mérite son rang.
 
+## C TIER
+
+### Marie / Isabelle
 <img src="Isabelle.png" width="50"> 
-  
+
+
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
