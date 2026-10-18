@@ -40,12 +40,13 @@ Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le pers
 |Aerials trop fortes               |                |
 |Trop fort                         |                |
 
-Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certains tournois à sa sortie, car même si sa force réside dans ses attaques puissantes et démesurées, son autre force est aussi les bugs de Gameplay, qui l'ont rendu irritable à jouer contre et l'ont rendu aussi puissant. A l'heure qu'il est, ce personnage reste, et restera, l'un des personnages les plus forts de tous les Super Smash Bros. confondus.
+Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certains tournois à sa sortie, car même si sa force réside dans ses attaques puissantes et démesurées, son autre force est aussi les bugs de Gameplay, qui l'ont rendu irritable à jouer contre et l'ont rendu aussi puissant. A l'heure qu'il est, ce personnage reste, et restera, l'un des personnages les plus forts de tous les Super Smash Bros. confondus.  
 
 ### Bayonetta
 <img src="Bayonetta.png" width="50"> 
 ### D'où vient-elle ? / Gameplay :  
-Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta), un personnage assez excentrique de l'univers de [Hideki Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya), qui fait son apparition dans le 4ème Opus de la série Super Smash Bros. : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Alors qu'elle a le même potentiel avec des atouts même plus puissant que Steve ? Elle est rapide, elle possède des attaques plus rapides pour démarrer un combo, des méchaniques plus fortes notamment son Down B, qui a la possibilité de ralentir l'adversaire qu'il l'attaque, des Specials qui permettent de démarrer un combo également.. On pourrait croire que c'est injuste de la mettre en-dessous d'un personnage plus lent qu'elle. Mais le problème réside du fait qu'elle a plus de point faible que notre ami Steve.
+
+Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta), un personnage assez excentrique de l'univers de [Hideki Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya), qui fait son apparition dans le 4ème Opus de la série Super Smash Bros. : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Alors qu'elle a le même potentiel avec des atouts même plus puissant que Steve ? Elle est rapide, elle possède des attaques plus rapides pour démarrer un combo, des méchaniques plus fortes notamment son Down B, qui a la possibilité de ralentir l'adversaire qu'il l'attaque, des Specials qui permettent de démarrer un combo également.. On pourrait croire que c'est injuste de la mettre en-dessous d'un personnage plus lent qu'elle. Mais le problème réside du fait qu'elle a plus de point faible que notre ami Steve.  
 
 |         Points forts         |        Points faibles      |
 | :--------------------------: | :-------------------------:|
@@ -58,7 +59,7 @@ Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta), un personna
 |Tilt initiateur de combo      |                            |
 |Aerials combo extender        |                            |
 
-Comparée à Steve, Bayonetta n'a que quelques points faibles en plus ce qui l'a rend vulnérable à quelques attaques. Hormis son gros manque de Moves Kill Confirm , ce personnage est assez puissant pour la jouer à un niveau professionnel, en étant à la fois fun à jouer, et impressionant à regarder (Nacer)
+Comparée à Steve, Bayonetta n'a que quelques points faibles en plus ce qui l'a rend vulnérable à quelques attaques. Hormis son gros manque de Moves Kill Confirm , ce personnage est assez puissant pour la jouer à un niveau professionnel, en étant à la fois fun à jouer, et impressionant à regarder (Nacer)  
 
 <img src="Zss.png" width="50"> 
   
