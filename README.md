@@ -154,7 +154,7 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 
 **Mewtwo** est donc dans l'avant dernier tier car il possède beaucoup de moves pouvant mettre une pression à l'adversaire, mais aussi beaucoup de désavantages par sa taille et son poids, ne lui permettant pas d'accéder à un rang au-dessus.
 
-## Tier E
+## E TIER
 
 ### Ganondorf
 ![Ganondorf](images/Ganondorf.png)
