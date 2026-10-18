@@ -84,7 +84,7 @@ C'est à ce moment précis qu'on se rend compte de la différence entre chaques 
 
 ### Donkey Kong  
 <img src="DK.png" width="50"> 
-### D'ou il vient ? / Gameplay :  
+### D'ou il vient ? / Gameplay :
 
 Notre vieil ami Donkey Kong, apparu pour la première fois dans son [jeu](https://fr.wikipedia.org/wiki/Donkey_Kong_(jeu_vid%C3%A9o,_1981)) du même nom, est un personnage iconique de la compagnie Nintendo. Il est apparu dans le tout premier Opus [Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros.) et il est l'une des plus grandes figures de ce jeu.  
 Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages visibles rien qu'en touchant le personnage pour la premère fois. Il est assez lent, il est énorme, il est lourd, il a une mauvaise recovery, il a du lag à chaque smashs attacks... Or, il est placé au même niveau que Zss. Alors pourquoi ? C'est grâce à ses mécaniques très puissantes. Son neutral B permet de charger un coup de poing dévastateur tuant assez rapidement (60%), son side B permet de casser le bouclier ennemi rapidement, mais aussi "enterrer" ses ennemis et les bloquer pour tuer facilement. Et le plus important dans son kit, est son plus grand atout. Son forward grab, au lieu d'éjecter l'ennemi, Donkey Kong porte son adversaire et peut se déplacer avec lui sur la carte, avant de le relâcher après quelques secondes. Cette capacité est très puissante car elle permet, en profitant de l'inatention de son adversaire, peut tuer à 0% en l'éjectant hors du stage.
