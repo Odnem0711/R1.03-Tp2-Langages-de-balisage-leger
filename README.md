@@ -1,15 +1,15 @@
 # La Tier-list Super Smash Bros. Ultimate
 ## Sommaire 
 
-1 - [Origine du jeu](#Origine du jeu)  
-2 - [Mécaniques expliquées](#Mécaniques expliquées)  
+1 - [Origine du jeu](#Origine-du-jeu)  
+2 - [Mécaniques expliquées](#Mécaniques-expliquées)  
 3 - [Tier-List](#Tier-List)  
-4 - [S TIER](#S TIER)  
-5 - [A TIER](#A TIER)  
-6 - [B TIER](#B TIER)  
-7 - [C TIER](#C TIER)  
-8 - [D TIER](#D TIER)  
-9 - [E TIER](#E TIER)  
+4 - [S TIER](#S-TIER)  
+5 - [A TIER](#A-TIER)  
+6 - [B TIER](#B-TIER)  
+7 - [C TIER](#C-TIER)  
+8 - [D TIER](#D-TIER)  
+9 - [E TIER](#E-TIER)  
 
 ## Origine du jeu
 [Super Smash Bros Ultimate](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) est un jeu développé par nintendo en 2017 et sorti le 7 décembre 2018, un jour que la plupart des fans de nintendos n'oublieront jamais.  
