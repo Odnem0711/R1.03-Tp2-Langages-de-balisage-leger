@@ -1,21 +1,22 @@
 # La Tier-list Super Smash Bros. Ultimate
 ## Sommaire 
 
-1 - [Orgine du jeu](#Origine du jeu :)  
-2 - [Mécaniques expliquées](#Mécaniques expliquées :)  
+1 - [Origine du jeu](#Origine du jeu)  
+2 - [Mécaniques expliquées](#Mécaniques expliquées)  
 3 - [Tier-List](#Tier-List)  
-4 - [S-Tier](#S TIER)  
-5 - [A-Tier](#A TIER)  
-6 - [B-Tier](#B TIER)  
-7 - [C-Tier](#C TIER)  
-8 - [D-Tier](#D TIER)  
-9 - [E-Tier](#E TIER)  
-## Origine du jeu :
+4 - [S TIER](#S TIER)  
+5 - [A TIER](#A TIER)  
+6 - [B TIER](#B TIER)  
+7 - [C TIER](#C TIER)  
+8 - [D TIER](#D TIER)  
+9 - [E TIER](#E TIER)  
+
+## Origine du jeu
 [Super Smash Bros Ultimate](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) est un jeu développé par nintendo en 2017 et sorti le 7 décembre 2018, un jour que la plupart des fans de nintendos n'oublieront jamais.  
 Si ce jeu est aussi populaire, c'est parce que Smash Bros est l'une des franchises de Nintendo les plus connues, car elle regroupe toutes les autres franchises signées Nintendo.  
 Le petit dernier se démarque des autres car il est sortie sur la Nintendo Switch, une console plus que connue.  
 Il est aussi populaire grâce au fait qu'il n'a pas uniquement ajouté des personnages signés Nintendo, mais aussi des personnages concurrents(Comme Sonic, par exemple, sorti sur Super Smash Bros Brawl, le 3ème jeu de la franchise). Dans ce Repo Git, nous allons analyser plusieurs personnages de différents tiers en les comparant pour bien voir la différence de puissance entre chacuns. La [tier-list](https://medium.com/@ultrankssb/the-fourth-ultrank-tier-list-2026-9c5f6964f7e3) est une tier-list datant de 2026, regroupant tout les personnages du jeu, sans forcément expliquer pourquoi ils sont dans ce tier, et c'est effectivement ce que nous allons voir.    
-## Mécaniques expliquées :
+## Mécaniques expliquées
 Avant de commencer, nous allons voir quelques méchaniques à expliquer pour comprendre le wiki :  
 |                  Principes                 |                Nom technique utilisé             |
 | :----------------------------------------: | :----------------------------------------------: |
