@@ -46,7 +46,7 @@ Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certain
 <img src="Bayonetta.png" width="50"> 
 ### D'où vient-elle ? / Gameplay :  
 
-Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta), un personnage assez excentrique de l'univers de [Hideki Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya), qui fait son apparition dans le 4ème Opus de la série Super Smash Bros. : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Alors qu'elle a le même potentiel avec des atouts même plus puissant que Steve ? Elle est rapide, elle possède des attaques plus rapides pour démarrer un combo, des méchaniques plus fortes notamment son Down B, qui a la possibilité de ralentir l'adversaire qu'il l'attaque, des Specials qui permettent de démarrer un combo également.. On pourrait croire que c'est injuste de la mettre en-dessous d'un personnage plus lent qu'elle. Mais le problème réside du fait qu'elle a plus de point faible que notre ami Steve.  
+Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta), un personnage assez excentrique de l'univers de [Hideki Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya), qui fait son apparition dans le [4ème Opus de la série Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_/_for_Wii_U) : dans le classement, elle est placée moins haute que Steve. Pourquoi ? Alors qu'elle a le même potentiel avec des atouts même plus puissant que Steve ? Elle est rapide, elle possède des attaques plus rapides pour démarrer un combo, des méchaniques plus fortes notamment son Down B, qui a la possibilité de ralentir l'adversaire qu'il l'attaque, des Specials qui permettent de démarrer un combo également.. On pourrait croire que c'est injuste de la mettre en-dessous d'un personnage plus lent qu'elle. Mais le problème réside du fait qu'elle a plus de point faible que notre ami Steve.  
 
 |         Points forts         |        Points faibles      |
 | :--------------------------: | :-------------------------:|
@@ -61,10 +61,24 @@ Ensuite voyons [Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta), un personna
 
 Comparée à Steve, Bayonetta n'a que quelques points faibles en plus ce qui l'a rend vulnérable à quelques attaques. Hormis son gros manque de Moves Kill Confirm , ce personnage est assez puissant pour la jouer à un niveau professionnel, en étant à la fois fun à jouer, et impressionant à regarder (Nacer)  
 
+### Samus Sans Armure (Zero Suit Samus)
 <img src="Zss.png" width="50"> 
-  
-| Points forts | Points faibles |
-| ------------ | -------------- |
+
+### D'où elle vient ? / Gameplay :
+
+Samus Sans Armure ou Zero Suit Samus est le personnage principal de la série [Metroid](https://fr.wikipedia.org/wiki/Metroid) et apparue dans le 3ème Opus de la Série [(Brawl)](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Brawl). Ce personnage est assez spécial car il paraît à vue d'oeil très puissant. Ce qui paraît aussi étonnant, c'est à la fois le fait qu'elle est moins bien classée que nos deux personnages vus précedemments, et que sa version en Armure est aussi mieux classée que celle sans Armure.  
+Zss (Zero Suit Samus) est un personnage très rapide, et très puissant. Elle possède un combo dévastateur, grâce à son Up Air, avec un finish au Up B pouvant tuer très tôt. Elle possède aussi beaucoup de Lag sur la fin de ses coups, la rendant très vulnérable. Elle est aussi assez prévisible, surtout hors du stage, pour revenir, mais aussi imprévisible par sa rapidité.  
+
+|      Points forts     |         Points faibles       |
+| :-------------------: | :--------------------------: |
+|Rapide                 |Beaucoup de Lag               |
+|Attaques rapide        |1 Kill confirm régulier (Up B)|
+|Combo Puissants        |Prévisible sur sa Recovery    |
+|Imprévisible           |Grab lent (mais Puissant)     |
+|Redoutable en Edgeguard|                              |
+|Excellente Recovery    |                              |
+
+C'est à ce moment précis qu'on se rend compte de la différence entre chaques personnages. En soit, la puissance de chaque perso n'est pas comparable en premier lieu, certains paraîssent fort, tandis que d'autres non, et c'est en fait le plus faible à vue d'oeil qui est le plus fort (A part Steve qui est une exception). Zss est un personnage très puissant qui, en 2023, était pratiquement en haut du panier, pour se retrouver en 2026, au milieu du classement. Pourquoi ? C'est en fait à cause de l'irrégularité de certains joueurs professionels en tournoi, qui montrent que Zss n'est pas un personnage si fort qu'il paraît. 
 
 <img src="DK.png" width="50"> 
   
