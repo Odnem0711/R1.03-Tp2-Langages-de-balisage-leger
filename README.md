@@ -24,7 +24,7 @@ Avant de commencer, nous allons voir quelques méchaniques à expliquer pour com
 ## S TIER
 
 ### Steve:  
-![Steve](images/Steve.png)
+![Steve](images/Steve.png)  
 Commençons tout d'abord par le personnage le plus fort du jeu, pour d'abord voir à quoi les autres personnages vont se comparer.  
 ### D'où vient-il ? :
 Il vient du célèbre Jeu Vidéo [Minecraft](https://fr.wikipedia.org/wiki/Minecraft), développé pendant les années 2000 et sorti le 18 Novembre 2011. Il était l'un des personnages les plus attendus dans Super  
@@ -109,7 +109,7 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 ## C TIER
 
 ### Marie / Isabelle
-~[Isabelle](images/Isabelle.png)
+![Isabelle](images/Isabelle.png)
 ### D'où elle vient ? / Gameplay :
 
 **Marie** est un personnage peu remarquable de la série Smash Bros. Sortie dans le dernier opus, et sort tout droit d'un jeu tranquille du nom de [Animal Crossing New Leaf](https://fr.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) .Déjà de un, qu'est ce qu'elle fait dans un jeu comme Smash Bros ? De deux, Ce personnage est tout bonnement basique, avec son forward air jetant un projectile, des tilts assez faibles, et des smashs attaques pouvant tuer à pourcentages très haut, des mécaniques simples comme son side B qui agit comme un deuxième grab, et un Down B très situationnel, qui plante un missile (Gyroïde) dans le sol.Ce personnage est tranquille, à l'image de son jeu d'origine. Elle n'est pas très menaçante, elle est même facile à éjecter, elle n'a pas beaucoup d'avantages, de point forts (à part son Neutral B qui peut stocker un projectile lancé vers toi)..
