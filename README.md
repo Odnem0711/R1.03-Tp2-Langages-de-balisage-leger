@@ -178,7 +178,7 @@ En bref, **Ganondorf** est très nul, Il n'a rien pour lui, hormis son charisme.
 
 ## Sources
 
-Au cas ou ça part en cachouètes, je met les sources :  
+Au cas ou ça part en cacahouètes, je met les sources :  
 Super Smash Bros : [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros.)   
 Super Smash Bros Melee[https://fr.wikipedia.org/wiki/Super\_Smash\_Bros\_Melee](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Melee)  
 Super Smash Bros Brawl : [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.\_Brawl](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Brawl)  
