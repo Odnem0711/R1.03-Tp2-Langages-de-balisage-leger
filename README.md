@@ -85,8 +85,9 @@ Zss (Zero Suit Samus) est un personnage très rapide, et très puissant. Elle po
 
 C'est à ce moment précis qu'on se rend compte de la différence entre chaques personnages. En soit, la puissance de chaque perso n'est pas comparable en premier lieu, certains paraîssent fort, tandis que d'autres non, et c'est en fait le plus faible à vue d'oeil qui est le plus fort (A part Steve qui est une exception). Zss est un personnage très puissant qui, en 2023, était pratiquement en haut du panier, pour se retrouver en 2026, au milieu du classement. Pourquoi ? C'est en fait à cause de l'irrégularité de certains joueurs professionels en tournoi, qui montrent que Zss n'est pas un personnage si fort qu'il paraît. 
 
+### Donkey Kong
 <img src="DK.png" width="50"> 
-  
+Notre vieil ami Donkey Kong, apparu pour la première fois dans le jeu du même nom, est un personnage iconique de la compagnie Nintendo. Il est apparu dans le tout premier Opus [Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros._(jeu_vid%C3%A9o))
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
