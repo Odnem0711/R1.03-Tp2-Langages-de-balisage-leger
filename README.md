@@ -16,7 +16,7 @@ Avant de commencer, nous allons voir quelques méchaniques à expliquer pour com
 |Attaques Spéciales (direction + B)          |**Specials** (Neutral / Up / Down B)              |
 |Moyens de revenir sur le terrain            |**Recovery**                                      |
 |Empêcher de l'adversaire de revenir         |**Edgeguarding**                                  |
-|Attraper quelqu'un                          |**Grab**(Forward/Back/Up/Down Throw)              |
+|Attraper quelqu'un                          |**Grab** (Forward/Back/Up/Down Throw)             |
 |Bouclier                                    |**Shield**                                        |
 
 ![Tier list Smash 2026](tierList.png)
@@ -84,6 +84,7 @@ C'est à ce moment précis qu'on se rend compte de la différence entre chaques 
 
 ### Donkey Kong  
 <img src="DK.png" width="50"> 
+
 ### D'ou il vient ? / Gameplay :
 
 Notre vieil ami Donkey Kong, apparu pour la première fois dans son [jeu](https://fr.wikipedia.org/wiki/Donkey_Kong_(jeu_vid%C3%A9o,_1981)) du même nom, est un personnage iconique de la compagnie Nintendo. Il est apparu dans le tout premier Opus [Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros.) et il est l'une des plus grandes figures de ce jeu.  
