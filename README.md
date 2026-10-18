@@ -42,7 +42,6 @@ Le personnage paraît simple à vu d'oeil. Comme dans son jeu d'origine, le pers
 |Smash attaques toutes kill confirm|                    |
 |Aerials trop fortes               |                    |
 |Trop fort                         |                    |
->>>>>>> lohan
 
 Entre autre, ce personnage est tellement fort qu'il s'est fait bannir de certains tournois à sa sortie, car même si sa force réside dans ses attaques puissantes et démesurées, son autre force est aussi les bugs de Gameplay, qui l'ont rendu irritable à jouer contre et l'ont rendu aussi puissant. A l'heure qu'il est, ce personnage reste, et restera, l'un des personnages les plus forts de tous les Super Smash Bros. confondus.  
 
@@ -110,7 +109,7 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 
 ### Marie / Isabelle
 ![Isabelle](images/Isabelle.png)
-### D'où elle vient ? / Gameplay :
+### D'où elle vient ? / Gameplay :  
 
 **Marie** est un personnage peu remarquable de la série Smash Bros. Sortie dans le dernier opus, et sort tout droit d'un jeu tranquille du nom de [Animal Crossing New Leaf](https://fr.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) .Déjà de un, qu'est ce qu'elle fait dans un jeu comme Smash Bros ? De deux, Ce personnage est tout bonnement basique, avec son forward air jetant un projectile, des tilts assez faibles, et des smashs attaques pouvant tuer à pourcentages très haut, des mécaniques simples comme son side B qui agit comme un deuxième grab, et un Down B très situationnel, qui plante un missile (Gyroïde) dans le sol.Ce personnage est tranquille, à l'image de son jeu d'origine. Elle n'est pas très menaçante, elle est même facile à éjecter, elle n'a pas beaucoup d'avantages, de point forts (à part son Neutral B qui peut stocker un projectile lancé vers toi)..
 
@@ -121,7 +120,6 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 |Neutral B         |Légère              |
 |Bons combos       |Coups Faibles       |
 |                  |0 Kill Confirm      |
-|                  |                    |
 
 **Marie** est effectivement un personnage assez faible, n'ayant que ses combos et ses specials qui peuvent l'aider. Si elle n'avait qu'une seule chose à avoir en plus, ce serait des coups plus puissants, sans ça, elle n'est effectivement pas impressionante et mérite son rang. (C'est l'un des personnages préférés de Lohan donc il faut pas trop la critiquer..). Le personnage est tellement faible comparé à Steve qu'ils ne sont même pas comparables entre eux, c'est vraiment n'importe quoi.
 
@@ -129,10 +127,27 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 | **Points forts** | **Points faibles** |
 | :--------------: | :----------------: |
 
+## Tier E
+
+### Ganondorf
 ![Ganondorf](images/Ganondorf.png)
-  
-| **Points forts** | **Points faibles** |
-| :--------------: | :----------------: |
+### D'où il vient ? / Gameplay :  
+
+**Ganondorf**.. Alias le **PIRE** personnage du jeu. Il vient de la célèbre liscence Zelda, apparu pour la première fois dans [Zelda Ocarina Of Time](https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time) , assez imposant par sa carrure, son charisme, sa force... Et bien il n'a malheureusement que ça. Dans Super Smash Bros., il est apparu la première fois sur [Smash Bros Melee](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Melee), et il était assez puissant à l'époque. Malheureusement, même après l'ajout de nouvelles attaques, il fut dépassé par tous les autres personnages de Ultimate. Malgré sa puissance de frappe titanesque, et bien le perso n'a quasiment rien d'autres en point fort. Le personnage est gigantesque, lent sur le sol et lent dans les airs, attaques très lentes, énormément de lags, peu de rangée, très prévisible, Recovery très très nulle, facile à combo...
+
+|         **Points forts**           | **Points faibles** |
+| :--------------------------------: | :----------------: |
+|Coups très puissants                |Lent                |
+|Early Kill Power                    |Facile à combo      |
+|Armure sur Neutral B                |Attaques lentes     |
+|Bon shield Pressure (Down + Up Tilt)|Lags                |
+|Bon Edgeguard (Aerials + Down Tilt) |No range            |
+|                                    |Prévisible          |
+|                                    |No Recovery         |  
+|                                    |Facile à Punir      |
+|                                    |Très Nul            |
+
+En bref, **Ganondorf** est très nul, Il n'a rien pour lui, hormis son charisme. Si il n'est pas fort à cause de ses mécaniques, il est néanmoins toujours une menace quand on tombe face à lui, car on se dit "Il peut me tuer facilement" et on essaye de jouer à distance, mais il nous rattrape et point final sur la partie. Quand je dis que les persos ne sont pas comparables, je parle évidemment de **Steve** qui refait son apparition. Si on joue bien un personnage comme **Ganondorf**, on peut se débrouiller et avoir un bon match-up contre la bête de Minecraft et de son kit idiot.
 
 
 
@@ -142,9 +157,4 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 
 
 
-
-
-
-
->>>>>>> lohan
 
