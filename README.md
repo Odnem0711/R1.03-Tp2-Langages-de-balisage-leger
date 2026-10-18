@@ -2,13 +2,13 @@
 ## Sommaire 
 
 1 - [Orgine du jeu](#Origine du jeu :)  
-2 - [Mécaniques expliquées](#Mécaniques expliquées)  
+2 - [Mécaniques expliquées](#Mécaniques expliquées :)  
 3 - [Tier-List](#Tier-List)  
 4 - [S-Tier](#S TIER)  
 5 - [A-Tier](#A TIER)  
-6 - [B-Tier](#B TIER)
-7 - [C-Tier](#C TIER)
-8 - [D-Tier](#D TIER)
+6 - [B-Tier](#B TIER)  
+7 - [C-Tier](#C TIER)  
+8 - [D-Tier](#D TIER)  
 9 - [E-Tier](#E TIER)  
 ## Origine du jeu :
 [Super Smash Bros Ultimate](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) est un jeu développé par nintendo en 2017 et sorti le 7 décembre 2018, un jour que la plupart des fans de nintendos n'oublieront jamais.  
