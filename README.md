@@ -1,4 +1,14 @@
 # La Tier-list Super Smash Bros. Ultimate
+## Sommaire 
+
+1 - [Orgine du jeu](##Origine du jeu :)
+2 - 
+3 -
+4 -
+5 - 
+6 -
+7 -
+8 -
 ## Origine du jeu :
 [Super Smash Bros Ultimate](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) est un jeu développé par nintendo en 2017 et sorti le 7 décembre 2018, un jour que la plupart des fans de nintendos n'oublieront jamais.  
 Si ce jeu est aussi populaire, c'est parce que Smash Bros est l'une des franchises de Nintendo les plus connues, car elle regroupe toutes les autres franchises signées Nintendo.  
@@ -123,9 +133,22 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 
 **Marie** est effectivement un personnage assez faible, n'ayant que ses combos et ses specials qui peuvent l'aider. Si elle n'avait qu'une seule chose à avoir en plus, ce serait des coups plus puissants, sans ça, elle n'est effectivement pas impressionante et mérite son rang. (C'est l'un des personnages préférés de Lohan donc il faut pas trop la critiquer..). Le personnage est tellement faible comparé à Steve qu'ils ne sont même pas comparables entre eux, c'est vraiment n'importe quoi.
 
+## D TIER
+### Mewtwo
 ![Mewtwo](images/Mewtwo.png)
-| **Points forts** | **Points faibles** |
-| :--------------: | :----------------: |
+### D'où elle vient ? / Gameplay :
+
+**Mewtwo** est un personnage de la série Pokemon, apparu pour la première fois en 1996 dans le jeu [Pokemon Rouge et Bleu](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Rouge_et_Bleu) en tant que boss ultime. **Mewtwo** est LE pokémon par excellence. Dans son jeu de base, il est très puissant, l'un des meilleurs pokemons de tous les jeux, mais dans Super Smash Bros. ce n'est pas le même personnage. Dès son apparition dans [Super Smash Bros. Melee](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Melee) il était l'un des personnages (si ce n'est) le plus nul du jeu. Pourtant, il a quelques moves intéressant et puissants, notamment son Neutral B mettant la pression à l'adversaire, une mobilité exceptionnel aliée à une bonne recovery, ainsi qu'un Power Kill démesuré. Ses combos sont tout aussi intéressants, pouvant alier à la fois specials et attaques normales. Hormis tous ces points forts, il est désavantagé par son côté ultra léger qui le rend vulnérable à n'importe quelle attaque, une grosse hitbox, qui permet à l'adversaire de combo facilement, et quand il est en situation de désavantage, il est difficile de remonter en stocks, malgré ses attaques puissantes.
+
+| **Points forts**            | **Points faibles**  |
+| :--------------:            | :----------------:  |
+|Neutral B (Outil de pression)|Ultra léger          |
+|Excellente mobilité aérienne |Immense Hitbox       |
+|Early Kill Power             |Facile a combo       |
+|Excellente recovery          |Désavantage difficile|
+|Reflecteur de Projectiles    |                     |
+
+**Mewtwo** est donc dans l'avant dernier tier car il possède beaucoup de moves pouvant mettre une pression à l'adversaire, mais aussi beaucoup de désavantages par sa taille et son poids, ne lui permettant pas d'accéder à un rang au-dessus.
 
 ## Tier E
 
@@ -148,11 +171,6 @@ Si il est aussi bas dans cette tier-list, c'est à cause de ses désavantages vi
 |                                    |Très Nul            |
 
 En bref, **Ganondorf** est très nul, Il n'a rien pour lui, hormis son charisme. Si il n'est pas fort à cause de ses mécaniques, il est néanmoins toujours une menace quand on tombe face à lui, car on se dit "Il peut me tuer facilement" et on essaye de jouer à distance, mais il nous rattrape et point final sur la partie. Quand je dis que les persos ne sont pas comparables, je parle évidemment de **Steve** qui refait son apparition. Si on joue bien un personnage comme **Ganondorf**, on peut se débrouiller et avoir un bon match-up contre la bête de Minecraft et de son kit idiot.
-
-
-
-
-
 
 
 
