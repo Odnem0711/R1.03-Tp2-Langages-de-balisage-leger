@@ -84,6 +84,7 @@ C'est à ce moment précis qu'on se rend compte de la différence entre chaques 
 ### Donkey Kong
 <img src="DK.png" width="50"> 
 Notre vieil ami Donkey Kong, apparu pour la première fois dans le jeu du même nom, est un personnage iconique de la compagnie Nintendo. Il est apparu dans le tout premier Opus [Super Smash Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros._(jeu_vid%C3%A9o))
+
 | Points forts | Points faibles |
 | ------------ | -------------- |
 
