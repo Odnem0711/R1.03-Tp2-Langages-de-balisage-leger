@@ -178,21 +178,21 @@ En bref, **Ganondorf** est très nul, Il n'a rien pour lui, hormis son charisme.
 
 ## Sources
 
-Au cas ou ça part en cachouètes, je met les sources :
-Super Smash Bros : [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros.) 
-Super Smash Bros Melee[https://fr.wikipedia.org/wiki/Super\_Smash\_Bros\_Melee](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Melee) 
-Super Smash Bros Brawl : [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.\_Brawl](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Brawl) 
-Super Smash Bros 4 : [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.\_for\_Nintendo\_3DS_/\_for\_Wii\_U](https://fr.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_/_for_Wii_U) 
-Super Smash Bros Ultimate  :  [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.\_Ultimate](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) 
+Au cas ou ça part en cachouètes, je met les sources :  
+Super Smash Bros : [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.](https://fr.wikipedia.org/wiki/Super_Smash_Bros.)   
+Super Smash Bros Melee[https://fr.wikipedia.org/wiki/Super\_Smash\_Bros\_Melee](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Melee)  
+Super Smash Bros Brawl : [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.\_Brawl](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Brawl)  
+Super Smash Bros 4 : [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.\_for\_Nintendo\_3DS_/\_for\_Wii\_U](https://fr.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_/_for_Wii_U)  
+Super Smash Bros Ultimate  :  [https://fr.wikipedia.org/wiki/Super\_Smash\_Bros.\_Ultimate](https://fr.wikipedia.org/wiki/Super_Smash_Bros._Ultimate)  
 
-Jeux Divers :
-Donkey Kong : [https://fr.wikipedia.org/wiki/Donkey\_Kong_(jeu\_vid%C3%A9o,\_1981)](https://fr.wikipedia.org/wiki/Donkey_Kong_(jeu_vid%C3%A9o,_1981))
-Metroid :[https://fr.wikipedia.org/wiki/Metroid](https://fr.wikipedia.org/wiki/Metroid)
-Pokemon :[https://fr.wikipedia.org/wiki/Pok%C3%A9mon\_Rouge\_et\_Bleu](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Rouge_et_Bleu)
-Bayonetta:[https://fr.wikipedia.org/wiki/Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta)
-Minecraft :[https://fr.wikipedia.org/wiki/Minecraft](https://fr.wikipedia.org/wiki/Minecraft)
-Zelda OOT :[https://fr.wikipedia.org/wiki/The\_Legend\_of\_Zelda:\_Ocarina\_of\_Time](https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
+Jeux Divers :  
+Donkey Kong : [https://fr.wikipedia.org/wiki/Donkey\_Kong_(jeu\_vid%C3%A9o,\_1981)](https://fr.wikipedia.org/wiki/Donkey_Kong_(jeu_vid%C3%A9o,_1981))  
+Metroid :[https://fr.wikipedia.org/wiki/Metroid](https://fr.wikipedia.org/wiki/Metroid)  
+Pokemon :[https://fr.wikipedia.org/wiki/Pok%C3%A9mon\_Rouge\_et\_Bleu](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Rouge_et_Bleu)  
+Bayonetta:[https://fr.wikipedia.org/wiki/Bayonetta](https://fr.wikipedia.org/wiki/Bayonetta)  
+Minecraft :[https://fr.wikipedia.org/wiki/Minecraft](https://fr.wikipedia.org/wiki/Minecraft)  
+Zelda OOT :[https://fr.wikipedia.org/wiki/The\_Legend\_of\_Zelda:\_Ocarina\_of\_Time](https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)  
 
-Tier-List : [https://medium.com/@ultrankssb/the-fourth-ultrank-tier-list-2026-9c5f6964f7e3](https://medium.com/@ultrankssb/the-fourth-ultrank-tier-list-2026-9c5f6964f7e3)
-Personnes : 
-Hideki Kamiya : [https://fr.wikipedia.org/wiki/Hideki\_Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya)
+Tier-List : [https://medium.com/@ultrankssb/the-fourth-ultrank-tier-list-2026-9c5f6964f7e3](https://medium.com/@ultrankssb/the-fourth-ultrank-tier-list-2026-9c5f6964f7e3)  
+Personnes :   
+Hideki Kamiya : [https://fr.wikipedia.org/wiki/Hideki\_Kamiya](https://fr.wikipedia.org/wiki/Hideki_Kamiya)  
